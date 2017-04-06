@@ -1,0 +1,13 @@
+Bridges:
+Edge 1 2
+Edge 1 5
+Edge 2 1
+Edge 5 1
+Edge 6 7
+Edge 6 8
+Edge 7 6
+Edge 8 6
+Articulations:
+Vertex 1
+Vertex 2
+Vertex 6
