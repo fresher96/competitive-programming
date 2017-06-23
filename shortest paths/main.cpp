@@ -64,7 +64,10 @@ void SSSP(int u){ // unknown complexity
         }
     }
 }
-void dijkstra(int u){ // O( (E + V)*lgV )
+void dijkstra(int u){
+	// complexity is O( E*lgE )
+	// for a conncected graph
+
     // this implementation doesn't work with negative cycles
     // however, it works with negative edges but slower
     
