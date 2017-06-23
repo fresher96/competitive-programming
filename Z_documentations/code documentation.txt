@@ -1,0 +1,7 @@
+﻿
+// code source: write the link or the source of the code
+// solve a standard problem showing an example of usage and write its link
+// description: briefly descripe the problem
+// add todos: stuff that should be changed based on the problem constrains. such as: array size, 'int' or 'double', ...
+// complexity: write time and memory complexities
+// add personal notes to the code like: int-ll? how to use? where to modify to invert the problem
